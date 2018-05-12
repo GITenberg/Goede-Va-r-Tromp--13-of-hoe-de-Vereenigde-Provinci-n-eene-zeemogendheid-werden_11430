@@ -1,5 +1,8 @@
 _repo: Goede-Va-r-Tromp--13-of-hoe-de-Vereenigde-Provinci-n-eene-zeemogendheid-werden_11430
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Louwerse, Pieter
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3977
     wikipedia: http://nl.wikipedia.org/wiki/Pieter_Louwerse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11430#Goede-Va-r-Tromp--13-of-hoe-de-Vereenigde-Provinci-n-eene-zeemogendheid-werden
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
